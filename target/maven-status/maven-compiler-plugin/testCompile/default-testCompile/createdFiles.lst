@@ -1,0 +1,5 @@
+inetbanking_application_v1_pageobjectmodel\LoginPage.class
+inetbanking_application_v1_utils\Reporting.class
+inetbanking_application_v1_utils\ReadConfig.class
+inetbanking_application_v1_testcases\TestCase_001.class
+inetbanking_application_v1_testcases\BaseClass.class

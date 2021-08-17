@@ -1,0 +1,42 @@
+2021-08-17 10:59:51,916 [main] INFO E-Banking - url is opened
+2021-08-17 11:01:01,344 [main] INFO E-Banking - url is opened
+2021-08-17 11:01:54,037 [main] INFO E-Banking - url is opened
+2021-08-17 11:01:59,302 [main] INFO E-Banking - username is entered
+2021-08-17 11:02:04,544 [main] INFO E-Banking - password is entered
+2021-08-17 11:02:07,700 [main] INFO E-Banking - Login button is clicked
+2021-08-17 11:02:07,733 [main] INFO E-Banking - Test Case 001 is Successful
+2021-08-17 11:17:36,476 [main] INFO E-Banking - url is opened
+2021-08-17 11:17:41,650 [main] INFO E-Banking - username is entered
+2021-08-17 11:17:46,826 [main] INFO E-Banking - password is entered
+2021-08-17 11:17:49,840 [main] INFO E-Banking - Login button is clicked
+2021-08-17 11:17:49,895 [main] INFO E-Banking - Test Case 001 is Successful
+2021-08-17 11:20:46,659 [main] INFO E-Banking - url is opened
+2021-08-17 11:20:51,807 [main] INFO E-Banking - username is entered
+2021-08-17 11:20:57,023 [main] INFO E-Banking - password is entered
+2021-08-17 11:20:59,218 [main] INFO E-Banking - Login button is clicked
+2021-08-17 11:20:59,247 [main] INFO E-Banking - Test Case 001 is Successful
+2021-08-17 11:50:02,299 [main] INFO E-Banking - url is opened
+2021-08-17 11:50:07,941 [main] INFO E-Banking - username is entered
+2021-08-17 11:50:13,011 [main] INFO E-Banking - password is entered
+2021-08-17 11:50:14,665 [main] INFO E-Banking - Login button is clicked
+2021-08-17 11:50:15,000 [main] INFO E-Banking - Test Case 001 is Not Successfull 
+2021-08-17 12:21:02,330 [main] INFO E-Banking - url is opened
+2021-08-17 12:21:07,418 [main] INFO E-Banking - username is entered
+2021-08-17 12:21:12,488 [main] INFO E-Banking - password is entered
+2021-08-17 12:21:16,552 [main] INFO E-Banking - Login button is clicked
+2021-08-17 12:21:16,721 [main] INFO E-Banking - Test Case 001 is Not Successfull 
+2021-08-17 12:55:44,270 [main] INFO E-Banking - url is opened
+2021-08-17 12:55:49,359 [main] INFO E-Banking - username is entered
+2021-08-17 12:55:54,426 [main] INFO E-Banking - password is entered
+2021-08-17 12:55:57,074 [main] INFO E-Banking - Login button is clicked
+2021-08-17 12:55:57,084 [main] INFO E-Banking - Test Case 001 is Successful
+2021-08-17 12:56:39,615 [main] INFO E-Banking - url is opened
+2021-08-17 12:56:44,705 [main] INFO E-Banking - username is entered
+2021-08-17 12:56:49,770 [main] INFO E-Banking - password is entered
+2021-08-17 12:56:53,254 [main] INFO E-Banking - Login button is clicked
+2021-08-17 12:56:53,274 [main] INFO E-Banking - Test Case 001 is Successful
+2021-08-17 13:03:49,315 [main] INFO E-Banking - url is opened
+2021-08-17 13:03:54,401 [main] INFO E-Banking - username is entered
+2021-08-17 13:03:59,476 [main] INFO E-Banking - password is entered
+2021-08-17 13:04:03,511 [main] INFO E-Banking - Login button is clicked
+2021-08-17 13:04:03,524 [main] INFO E-Banking - Test Case 001 is Successful
